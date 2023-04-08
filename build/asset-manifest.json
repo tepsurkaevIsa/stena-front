@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tepsurkaevIsa/stena-front/static/css/main.2dc9f554.css",
+    "main.js": "/tepsurkaevIsa/stena-front/static/js/main.82b3aeb7.js",
+    "index.html": "/tepsurkaevIsa/stena-front/index.html",
+    "main.2dc9f554.css.map": "/tepsurkaevIsa/stena-front/static/css/main.2dc9f554.css.map",
+    "main.82b3aeb7.js.map": "/tepsurkaevIsa/stena-front/static/js/main.82b3aeb7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dc9f554.css",
+    "static/js/main.82b3aeb7.js"
+  ]
+}
